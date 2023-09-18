@@ -8,7 +8,7 @@
 </head>
 <body>
       <header>
-            <form action="" post="GET">
+            <form action="" method="post">
                 <h1>Modifier un utilisateur</h1>
                 <input type="text" placeholder="Username" name="texte">
                 <input type="text" placeholder="Email" name="email">
